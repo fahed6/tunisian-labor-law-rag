@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+# Données régénérables (python main.py pipeline)
+data/brut/
+data/prepare/
+data/index/
+rapports/*
+!rapports/.gitkeep
+

@@ -1,0 +1,58 @@
+[
+  {
+    "source": "Exemple (fictif)",
+    "titre": "La ville de Lunaris inaugure un tramway entièrement solaire",
+    "resume": "<p>La municipalité fictive de Lunaris a mis en service sa première ligne de tramway alimentée par des panneaux solaires installés sur les toits des stations. Le trajet complet dure vingt minutes et dessert l'université et l'hôpital.</p>",
+    "lien": "https://exemple.invalid/tramway-solaire",
+    "date": "Mon, 09 Nov 2026 08:00:00 +0000"
+  },
+  {
+    "source": "Exemple (fictif)",
+    "titre": "Football : le FC Lunaris remporte la coupe régionale",
+    "resume": "Le FC Lunaris s'est imposé 2 à 1 en finale de la coupe régionale, grâce à un but en fin de match de son jeune attaquant. Le club n'avait plus gagné ce trophée depuis quinze ans.",
+    "lien": "https://exemple.invalid/fc-lunaris-coupe",
+    "date": "Sun, 08 Nov 2026 21:30:00 +0000"
+  },
+  {
+    "source": "Exemple (fictif)",
+    "titre": "Économie : la banque centrale de Lunaria maintient ses taux",
+    "resume": "La banque centrale du pays fictif de Lunaria a décidé de laisser ses taux d'intérêt inchangés à 3 %, estimant que l'inflation ralentit mais reste supérieure à son objectif de 2 %.",
+    "lien": "https://exemple.invalid/banque-centrale-taux",
+    "date": "Thu, 12 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "source": "Exemple (fictif)",
+    "titre": "Santé : une campagne de vaccination contre la grippe lancée à Lunaris",
+    "resume": "<p>Les autorités sanitaires fictives de Lunaris lancent une campagne de vaccination gratuite contre la grippe saisonnière, destinée en priorité aux personnes de plus de 65 ans et aux soignants.</p>",
+    "lien": "https://exemple.invalid/vaccination-grippe",
+    "date": "Tue, 10 Nov 2026 09:15:00 +0000"
+  },
+  {
+    "source": "Exemple (fictif)",
+    "titre": "Technologie : une start-up de Lunaris présente un traducteur vocal hors-ligne",
+    "resume": "Une jeune entreprise fictive a présenté un appareil capable de traduire la voix en temps réel dans douze langues, sans connexion Internet, grâce à un petit modèle d'intelligence artificielle embarqué.",
+    "lien": "https://exemple.invalid/traducteur-vocal",
+    "date": "Wed, 11 Nov 2026 11:45:00 +0000"
+  },
+  {
+    "source": "Exemple (fictif)",
+    "titre": "Climat : des pluies record provoquent des inondations dans la vallée de Sora",
+    "resume": "Des précipitations exceptionnelles ont fait déborder la rivière Sora (lieu fictif). Plusieurs centaines d'habitants ont été évacués et les écoles de la vallée resteront fermées jusqu'à lundi.",
+    "lien": "https://exemple.invalid/inondations-sora",
+    "date": "Thu, 12 Nov 2026 06:20:00 +0000"
+  },
+  {
+    "source": "Exemple (fictif)",
+    "titre": "Football : le FC Lunaris remporte la coupe régionale",
+    "resume": "Doublon volontaire pour illustrer l'étape de dédoublonnage.",
+    "lien": "https://exemple.invalid/fc-lunaris-coupe",
+    "date": "Sun, 08 Nov 2026 21:30:00 +0000"
+  },
+  {
+    "source": "Exemple (fictif)",
+    "titre": "Brève",
+    "resume": "",
+    "lien": "https://exemple.invalid/breve-vide",
+    "date": "Fri, 13 Nov 2026 07:00:00 +0000"
+  }
+]

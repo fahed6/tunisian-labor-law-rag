@@ -1,0 +1,13 @@
+# Alternative à « uv sync » :   pip install -r requirements.txt
+feedparser>=6.0
+pandas>=2.0
+numpy>=1.26
+sentence-transformers>=3.0
+ollama>=0.6.3
+fastapi>=0.115
+uvicorn>=0.30
+streamlit>=1.40
+# Développement / démonstration
+pytest>=8.0
+jupyter>=1.1.1
+matplotlib>=3.8
